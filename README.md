@@ -1,2 +1,2 @@
-# csv-ner
-Uses Spacy to perform named-entity recognition on specified columns from a CSV file
+# Named entity recognition in CSVs
+A Jupyter notebook that uses [https://spacy.io/](Spacy) to perform named-entity recognition on specified columns from a CSV file. Thoroughly commented and designed for people without much experience working with Python. Should work for any language where Spacy has a model with entity support (Dutch, English, French, German, Greek, Italian, Lithuanian, Norwegian, Spanish, Portuguese, as of October 2019).
